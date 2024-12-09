@@ -1,21 +1,22 @@
-# Holidayz Landing Page Website 🚗
+# Style Lab Ecommerce Website 🛒
 
-Welcome to Holidayz Landing Page website - "Life is an experiment in which you may fail or succeed. Explore more , Expect least."
+Welcome to Style Lab Ecommerce website - "Style is a deeply personal expression of who you are, and every time you dress, you are asserting a part of yourself."
 
 
 ## Preview 👀
 
-[Live Demo](https://exploringearthattractions.netlify.app/)
+[Live Demo](https://style-labecommerce.netlify.app/)
 
 ## Features ✨
 
 - user interface
 - Fully Responsive
+- add payment method
 
 
 ## Screenshots 📸
 
-![travel](https://github.com/user-attachments/assets/55459af5-f689-4509-acf3-c69e62bc1fe9)
+![Screenshot (88)](https://github.com/user-attachments/assets/00b18fa7-f7a6-499c-8aa3-974b9b54702c)
 
 
 ## Technology </>
